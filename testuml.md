@@ -1,5 +1,7 @@
 # Diagram Test
 
+!{diagram}(docs/diagrams/out/test.svg)
+
 ::uml::
 Alice -> Bob: Authentication Request
 Bob --> Alice: Authentication Response

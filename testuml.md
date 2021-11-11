@@ -1,6 +1,6 @@
 # Diagram Test
 
-![diagram](docs/diagrams/out/test.svg)
+![diagram](diagrams/out/test.svg)
 
 ::uml::
 Alice -> Bob: Authentication Request
